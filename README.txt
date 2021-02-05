@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-## 合成大西瓜
-
-未修改版源码，可直接在浏览器运行
-
-在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
+## 合成雪雪子
 
 
 ### 本地启动
